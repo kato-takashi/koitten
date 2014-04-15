@@ -1,0 +1,8 @@
+音楽関係
+iOSで、ミュージックライブラリにアクセスして音楽を再生する
+http://nackpan.net/blog/2013/08/12/ipod-library-access/
+
+アラーム関係
+http://ameblo.jp/dai-lab/entry-10669853041.html
+http://lab.dolice.net/blog/2013/09/04/download-xcode-objc-alarm/
+http://www.aguuu.com/archives/2011/09/local_notification/
